@@ -1,4 +1,4 @@
-# challengeXP
+# ChallengeXP
 Challenge implemented in python 3 
 
 Requirements
